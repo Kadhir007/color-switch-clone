@@ -1,0 +1,2 @@
+D:\Unity project\color switch\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+D:\Unity project\color switch\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
